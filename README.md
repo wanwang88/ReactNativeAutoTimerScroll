@@ -1,3 +1,3 @@
 # ReactNativeAutoTimerScroll
 定时器轮播demo
-恩
+![image](https://github.com/wanwang88/ReactNativeAutoTimerScroll/master/screenshots/demo.png)
